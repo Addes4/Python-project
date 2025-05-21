@@ -1,6 +1,6 @@
 adde,2,2
 natti,3,2
-Joe Mama -.,14,4
+Joe Mama,14,4
 Jonas,15,4
 Heddis,18,4
 mamma,25,4
