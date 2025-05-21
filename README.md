@@ -3,7 +3,7 @@
 <h2 align="center">Memory</h2>
 
 <p align="center">
-  <b>SF1546 – Programmeringsteknik</b><br>
+  <b>DD1310 – Programmeringsteknik</b><br>
   <i>KTH Royal Institute of Technology</i><br>
 </p>
 
